@@ -25,7 +25,7 @@ jobs:
     steps:
       - name: clone
         run: |
-          git clone --single-branch --branch main https://github.com/zero205/JD_tencent_scf.git
+          git clone --single-branch --branch main https://github.com/Miseruojianhua/JD_tencent_scf.git
       - uses: actions/setup-node@v2
       - name: install dependency
         working-directory: ./JD_tencent_scf
