@@ -16,7 +16,7 @@ jobs:
           ref: 'config'
       - name: clone
         run: |
-          git clone --single-branch --branch main https://github.com/zero205/JD_tencent_scf.git
+          git clone --single-branch --branch main https://github.com/Miseruojianhua/JD_tencent_scf.git
       - name: Pre Tasks
         env:
           EXPERIMENT: ${{ secrets.EXPERIMENT }}
