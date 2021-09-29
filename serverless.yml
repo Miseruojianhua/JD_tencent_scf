@@ -86,4 +86,18 @@ inputs:
           argument: jd_pigPet&jd_syj&jd_kd&jd_jdzz&jd_ddly&jd_lsj&jd_ljd&jd_dwapp&jd_nzmh&jd_connoisseur&jd_star_shop&jd_cfd_mooncake&jd_jmf
   environment: #  环境变量
     variables: #  环境变量对象
-    AAA: BBB
+    GLOBAL_ACCELERATOR_NA: true
+    FRUIT_BEAN_CARD: true
+    JDJOY_APPLYJDBEAN: 2000
+    JDJOY_HELPSELF: true
+    JD_BEAN_SIGN_NOTIFY_SIMPLE: true
+    JD_COOKIE: pt_key=AAJhTC1VADCLOxMudYJ8sLvpeOSGrtCFliL2cKdxpUwrIzRgx2s0NesQTZisQU77hBsB0YNGjtk; pt_pin=jd_6b55e5fcda417;
+    JOIN_PK_TEAM: true
+    JOY_FEED_COUNT: 20
+    JOY_RUN_HELP_MYSELF: true
+    JOY_TEAM_LEVEL: 2&10&50
+    MARKET_COIN_TO_BEANS: 20
+    PAT: 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
+    PUSH_KEY: SCT79236TTP5zRKzaTgDueeSk8mWU1SPI
+    SUPERMARKET_LOTTERY: true
+    FS_LEVEL: car
