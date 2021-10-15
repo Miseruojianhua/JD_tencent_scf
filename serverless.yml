@@ -20,7 +20,7 @@ inputs:
   region: ap-guangzhou # 函数所在区域
   description: This is a function in ${app} application.
   memorySize: 64 # 内存大小，单位MB
-  timeout: 4800 # 超时时间，单位秒
+  timeout: 3600 # 超时时间，单位秒
   asyncRunEnable: false # 是否启用异步执行
   retryNum: 0
   events: #触发器
